@@ -13,3 +13,5 @@ To solve the differential equations using MUSCL scheme with MINMOD flux-limiter:
 
 To solve the differential equations using MUSCL scheme with SUPERBEE flux-limiter:
 ./Euler M SUP
+
+The plot file can be used to produce .gif representations of the solutions obtained at different times using any of the above schemes.
