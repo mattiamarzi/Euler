@@ -54,7 +54,7 @@ program main
   !######################################################################
 
   if (iargc()<1) then
-     write(*,*) 'Please, insert L for Lax-Wendroff, R for Roe'
+     write(*,*) 'Please, insert L for Lax-Wendroff, R for Roe or M for MUSCL'
      stop
   end if
 
